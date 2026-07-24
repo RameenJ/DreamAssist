@@ -1,11 +1,7 @@
 # 🌙 DreamAssist  
 ## AI-Powered Adaptive Learning & Student Productivity Assistant
 
-<p align="center">
-  <img src="assets/banner.png" alt="DreamAssist Banner" width="800"/>
-</p>
 
-<p align="center">
   An emotionally intelligent AI learning companion that combines LLM-powered tutoring, Retrieval-Augmented Generation, adaptive study planning, and personalized productivity assistance.
 </p>
 
@@ -349,6 +345,14 @@ Provide deeper reasoning and technical details.
 
 
 ---
+
+## 4. App Walkthrough
+
+<img width="1126" height="601" alt="image" src="https://github.com/user-attachments/assets/4c3dfc87-3d8c-448b-b472-a367af210080" />
+<img width="478" height="752" alt="image" src="https://github.com/user-attachments/assets/ed0c185f-6c9e-4b77-9b82-e33565ade685" />
+<img width="1135" height="596" alt="image" src="https://github.com/user-attachments/assets/552111d3-dc28-42ec-a3e2-c12b97cf72f9" />
+<img width="1317" height="697" alt="image" src="https://github.com/user-attachments/assets/a3f6e570-5769-49b8-b108-1ea198f9a3a7" />
+
 
 # 📊 Future Improvements
 
